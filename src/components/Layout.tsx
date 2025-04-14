@@ -115,7 +115,7 @@ export default function Layout() {
             <h1 className={`font-semibold text-xl text-gray-800 transition-all duration-300 ease-in-out overflow-hidden whitespace-nowrap ${
               isMenuCollapsed ? "w-0 opacity-0" : "w-auto opacity-100"
             }`}>
-              TeamApp2
+              TeamApp
             </h1>
             <button
               type="button"
